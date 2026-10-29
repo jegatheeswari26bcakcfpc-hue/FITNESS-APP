@@ -1,8 +1,5 @@
-
-
----
-
-#  Pulse – Fitness App Mood Board
+pulse – Fitness App Mood Board
+Design Link - https://www.figma.com/design/0DkyQbwndkiRCRqNzzsnR4/Untitled?t=Q6o6i8dHXZRlF7qw-0
 
 ##  Project Overview
 
